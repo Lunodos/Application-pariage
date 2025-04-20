@@ -4,7 +4,7 @@ Sa a se yon aplikasyon de pari foutbòl anliy ki fèt pou itilizatè Ayisyen. Li
 
 - Kreye kont
 - Fè koneksyon
-- Jere parye yo ant itilizatè yo
+- Jere paryaj ant itilizatè yo
 - Peye ak MonCash ak NatCash
 - Wè istwa pari yo
 - Resevwa notifikasyon an tan reyèl
