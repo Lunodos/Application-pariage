@@ -24,4 +24,4 @@ Sa a se yon aplikasyon de pari foutbòl anliy ki fèt pou itilizatè Ayisyen. Li
 
 ## Lisans
 
-Pwojè sa a se yon demo. Pa itilize li pou itilize komèsyal san otorizasyon.
+Pwojè sa a se yon demo. Pa itilize li a dè fen komèsyal san otorizasyon.
